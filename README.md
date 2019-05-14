@@ -5,7 +5,9 @@
 
 ## 解密
 
-- 是不是有点看不懂这个项目了？试试"解密"它：复制下面的js代码-&gt;键盘F12-&gt;控制台-&gt;粘贴-&gt;回车
+- 为了支持正版软件(QAQ)以及减少被搜索量，对正文内容进行了反转。
+- 解码方法：
+- 复制下面的js代码-&gt;键盘F12-&gt;控制台-&gt;粘贴-&gt;回车
 
 `enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split("").reverse().join("");}else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelector(".repository-content"));`
 
@@ -14,7 +16,8 @@
 ## 介简目项
 
 - ppA版解破的下SOcaM即，kcarC-ppA-SOcaM
-- 版解破的究研习学于用专，的布发人个是的供提此在
+- 版册注免的究研习学人个于用限仅且，的解破人本是的供提此在
+- 目项此生产而，门后有件软版解破的上网联互忧担因
 
 <br>
 
@@ -74,6 +77,9 @@
 |tidEartlU|器辑编本文的大强能功款一
 |etsaP|用应板贴剪的秀优款一
 |xegeR|用应试测式达表则正的洁简款一
+|noillixiP|等PBEW,DSP,OCI,GVS,FFIT,FDP,0002GEPJ持支还外式格见常除,器换转件文像图的大强款一
+|rzitessA|用应理处速快像图款一
+|orP tiKRCO|用应别识字文像图款一
 
 <br>
 
@@ -109,3 +115,6 @@
 |kcarC-tidEartlU|[04.0.00.81v](./../../releases/tag/04.0.00.81v-kcarC-tidEartlU)|11-50-9102
 |kcarC-etsaP|[)55( 3.4.2v](./../../releases/tag/55-3.4.2v-kcarC-etsaP)|11-50-9102
 |kcarC-xegeR|[5.2.2v](./../../releases/tag/5.2.2v-kcarC-xegeR)|11-50-9102
+|kcarC-noillixiP|[40.6v](./../../releases/tag/40.6v-kcarC-noillixiP)|41-50-9102
+|kcarC-rzitessA|[4.0.2v](./../../releases/tag/4.0.2v-kcarC-rzitessA)|41-50-9102
+|kcarC-orP-tiKRCO|[51.2.91v](./../../releases/tag/51.2.91v-kcarC-orP-tiKRCO)|41-50-9102
