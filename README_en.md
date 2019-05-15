@@ -3,52 +3,52 @@
 
 <br>
 
-[EMDAER](README_en.md) | [档文文中](README.md)
+[档文文中](README.md) | [EMDAER](README_en.md)
 
-## 解密
+## Decode
 
-- 为了支持正版软件(QAQ)以及减少被搜索量，对正文内容进行了反转。
-- 解码方法：
-- 复制下面的js代码-&gt;键盘F12-&gt;控制台-&gt;粘贴-&gt;回车
+- In order to support the genuine application (QAQ) and reduce the amount of search, the content of the text was reversed.
+- Decoding method:
+- Copy the following js code -&gt; keyboard F12 -&gt; console -&gt; paste -&gt; enter
 
 `enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split("").reverse().join("");}else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelector(".repository-content"));`
 
 <br>
 
-## 介简目项
+## noitpircsed tcejorP
 
-- ppA版解破的下SOcaM即，kcarC-ppA-SOcaM
-- 版册注免的究研习学人个于用限仅且，的解破人本是的供提此在
-- 目项此生产而，门后有件软版解破的上网联互忧担因
-
-<br>
-
-## )用通(法方解破
-
-1. ；ppa该次一动启里 "序程用应" 在后然，装安行进 "snoitacilppA" 到ppa动拖先
-1. ；ppa动启新重后然，"kcarC xxxx" 行执击双，骤步一这有才时序程的 "kcarC xxxx" 叫个有里包装安当
-1. 。之赏欣
+- .SOcaM fo noisrev dekcarc eht ,kcarC-ppA-SOcaM
+- .seiduts yduts lanosrep rof ylno ,dekcarc I tahw si sihT
+- .srehto yb dedivorp noisrev dekcarc eht fo roodkcab eht tuoba snrecnoc fo esuaceb detaerc saw tcejorp sihT
 
 <br>
 
-## )用通非(法方解破
+## )lareneg( dohtem kcarC
 
-1. ；明说的时gmd动启读阅请
-1. 。之赏欣
-
-<br>
-
-## 明声
-
-- ；的目究研和习学于用限仅法方/丁补/件软解破此
-- ；负自户用请果后切一，则否，途用法非者或业商于用容内述上将得不
-- ；担承人本者用使由部全，失损的成造容内述上用使因
-- ；容内述上除删底彻中脑电的己自从，内之时小个42的后载下在须必户用
-- 。务服版正的好更到得，册注与买购，版正持支请，欢喜户用果如
+1. ;"snoitacilppA" eht ni ecno ppa eht hcnual neht ,llatsni ot "snoitacilppA" ot ppa eht garD
+1. ;ppa eht tratser dna "kcarC xxxx" etucexe ot kcilc-elbuoD .egakcap noitallatsni eht ni "kcarC xxxx" dellac margorp a si ereht nehw elbaliava ylno si pets sihT
+1. .ti yojnE
 
 <br>
 
-## 介简ppA
+## )laiceps( dohtem kcarC
+
+1. ;gmd gnitrats nehw snoitcurtsni eht daer esaelP
+1. .ti yojnE
+
+<br>
+
+## tnemetatS
+
+- ;ylno sesoprup hcraeser dna gninrael rof si dohtem/hctap/erawtfos gnikcarc sihT
+- ;secneuqesnoc lla rof elbisnopser eb llahs resu eht ,esiwrehto ,sesoprup lagelli ro laicremmoc rof desu eb ton yam tnetnoc evoba ehT
+- ;flesmih resu eht yb enrob eb llahs tnetnoc evoba eht fo esu eht yb desuac sessol llA
+- ;gnidaolnwod retfa sruoh 42 nihtiw retupmoc reh ro sih morf tnetnoc evoba eht evomer yletelpmoc tsum resu ehT
+- .ecivres eniuneg retteb teg ,noitartsiger dna esahcrup ,eniuneg troppus esaelp ,ti sekil resu eht fI
+
+<br>
+
+## noitpircsed ppA
 
 |ppA|介简|源来
 |---|---|---
@@ -89,9 +89,9 @@
 
 <br>
 
-## 布发ppA版解破
+## ppa dekcarc esaeleR
 
-|ppA|接链载下 + 本版|间时布发
+|ppA|daolnwoD + noisreV|etad esaeleR
 |---|---|---
 |kcarC-orP-PTF-ymmuY|[5.0.2v](./../../releases/tag/5.0.2v-kcarC-orP-PTF-ymmuY)|32-30-9102
 |kcarC-eertecruoS|[)312( 1.1.3v](./../../releases/tag/312-1.1.3v-kcarC-eertecruoS)|32-30-9102
