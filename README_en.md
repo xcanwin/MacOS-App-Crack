@@ -85,7 +85,6 @@
 |rzitessA|用应理处速快像图款一|[网官](https://assetizr.com/)
 |orP tiKRCO|用应别识字文像图款一|[网官](http://ocrkit.com/)
 |sulPelbaT|具工发开库据数能性高的靠可全安款一|[网官](https://tableplus.io/)
-|oidutS orPLQS|具工理管化视可库据数的大强款一|[网官](http://www.sqlprostudio.com/)
 |XFeruceS|用应端户客PTFS+PTF款一|[网官](https://www.vandyke.com/products/securefx/)
 |tiKdaeR|用应读阅SSR款一|[网官](http://readkitapp.com/)
 
@@ -127,6 +126,5 @@
 |kcarC-rzitessA|[4.0.2v](./../../releases/tag/4.0.2v-kcarC-rzitessA)|41-50-9102
 |kcarC-orP-tiKRCO|[51.2.91v](./../../releases/tag/51.2.91v-kcarC-orP-tiKRCO)|41-50-9102
 |kcarC-sulPelbaT|[)402( 1.2v](./../../releases/tag/402-1.2v-kcarC-sulPelbaT)|51-50-9102
-|kcarC-oidutS-orPLQS|[)924011( 924.0.1v](./../../releases/tag/924011-924.0.1v-kcarC-oidutS-orPLQS)|51-50-9102
 |kcarC-XFeruceS|[)7681( 3.5.8v](./../../releases/tag/7681-3.5.8v-kcarC-XFeruceS)|51-50-9102
 |kcarC-tiKdaeR|[)1108( 1.6.2v](./../../releases/tag/1108-1.6.2v-kcarC-tiKdaeR)|51-50-9102
