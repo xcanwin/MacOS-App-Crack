@@ -3,7 +3,9 @@
 
 <br>
 
-[档文文中](README.md) | [EMDAER](README_en.md)
+[中文文档](README.md) | [README](README_en.md)
+
+<br>
 
 ## Decode
 
@@ -50,7 +52,7 @@
 
 ## noitpircsed ppA
 
-|ppA|介简|源来
+|ppA|noitpircseD|ecruoS
 |---|---|---
 |orP PTF ymmuY|端户客PTFS的靠可而业专常非款一|[网官](http://www.yummysoftware.com/)
 |eertecruoS|理管目项tig于用适,件软制控本版目项的面界化视可有拥款一|[网官](https://www.sourcetreeapp.com/)

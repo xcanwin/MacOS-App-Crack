@@ -3,7 +3,9 @@
 
 <br>
 
-[EMDAER](README_en.md) | [档文文中](README.md)
+[README](README_en.md) | [中文文档](README.md)
+
+<br>
 
 ## 解密
 
@@ -17,9 +19,9 @@
 
 ## 介简目项
 
-- ppA版解破的下SOcaM即，kcarC-ppA-SOcaM
-- 版册注免的究研习学人个于用限仅且，的解破人本是的供提此在
-- 目项此生产而，门后有件软版解破的上网联互忧担因
+- 。ppA版解破的下SOcaM即，kcarC-ppA-SOcaM
+- 。版册注免的究研习学人个于用限仅且，的解破人本是的供提此在
+- 。目项此生产而，门后有件软版解破的上网联互忧担因
 
 <br>
 
