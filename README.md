@@ -91,6 +91,12 @@
 |selrahC|包抓于用要主，具工析分络网款一|[网官](https://www.charlesproxy.com/)
 |elpicnirP|具工计设型原互交款一|[网官](http://principleformac.com/)
 |orP tsivoM|式格频视的有所乎几持支，器放播体媒清高款一|[网官](http://cocoable.com/)
+|rotidE 010|器辑编制进六十和器辑编本文的业专款一|[网官](https://www.sweetscape.com/010editor/)
+|tidEBB|器辑编本文和LMTH业专的先领款一|[网官](https://www.barebones.com/products/bbedit/)
+|hsaD|用应合聚档文IPA备必者发开款一|[网官](https://kapeli.com/dash)
+|suneM tatSi|用应测监统系能全|[网官](https://bjango.com/mac/istatmenus/)
+|orP tidEtsilP|用应辑编档文tsilP的业专款一|[网官](https://www.fatcatsoftware.com/plisteditpro/)
+|emaneR redniF retteB A|用应名命重量批的大强款一|[网官](http://www.publicspace.net/ABetterFinderRename/)
 
 <br>
 
@@ -136,3 +142,9 @@
 |kcarC-selrahC|[8.2.4v](./../../releases/tag/8.2.4v-kcarC-selrahC)|61-50-9102
 |kcarC-elpicnirP|[)8105( 7.5v](./../../releases/tag/8105-7.5v-kcarC-elpicnirP)|61-50-9102
 |kcarC-orP-tsivoM|[)37( 3.1.2v](./../../releases/tag/37-3.1.2v-kcarC-orP-tsivoM)|61-50-9102
+|esneciL-rotidE-010|[1.0.9v](./../../releases/tag/1.0.9v-esneciL-rotidE-010)|71-50-9102
+|esneciL-tidEBB|[)860214( 3.6.21v](./../../releases/tag/860214-3.6.21v-esneciL-tidEBB)|71-50-9102
+|esneciL-hsaD|[2.6.4v](./../../releases/tag/2.6.4v-esneciL-hsaD)|71-50-9102
+|esneciL-suneM-tatSi|[)0901( 13.6v](./../../releases/tag/0901-13.6v-esneciL-suneM-tatSi)|71-50-9102
+|esneciL-orP-tidEtsilP|[)998( 9.1v](./../../releases/tag/998-9.1v-esneciL-orP-tidEtsilP)|71-50-9102
+|esneciL-emaneR-redniF-retteB-A|[04.01v](./../../releases/tag/04.01v-esneciL-emaneR-redniF-retteB-A)|71-50-9102
