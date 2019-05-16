@@ -19,7 +19,7 @@
 
 ## noitpircsed tcejorP
 
-- .SOcaM fo noisrev dekcarc eht ,kcarC-ppA-SOcaM
+- .snoitacilppa SOcaM fo noisrev dekcarc eht ,kcarC-ppA-SOcaM
 - .seiduts yduts lanosrep rof ylno ,dekcarc I tahw si sihT
 - .srehto yb dedivorp noisrev dekcarc eht fo roodkcab eht tuoba snrecnoc fo esuaceb detaerc saw tcejorp sihT
 
@@ -87,6 +87,10 @@
 |sulPelbaT|具工发开库据数能性高的靠可全安款一|[网官](https://tableplus.io/)
 |XFeruceS|用应端户客PTFS+PTF款一|[网官](https://www.vandyke.com/products/securefx/)
 |tiKdaeR|用应读阅SSR款一|[网官](http://readkitapp.com/)
+|GMDporD|包打GMD|[网官](https://c-command.com/dropdmg/)
+|selrahC|包抓于用要主，具工析分络网款一|[网官](https://www.charlesproxy.com/)
+|elpicnirP|具工计设型原互交款一|[网官](http://principleformac.com/)
+|orP tsivoM|式格频视的有所乎几持支，器放播体媒清高款一|[网官](http://cocoable.com/)
 
 <br>
 
@@ -128,3 +132,7 @@
 |kcarC-sulPelbaT|[)402( 1.2v](./../../releases/tag/402-1.2v-kcarC-sulPelbaT)|51-50-9102
 |kcarC-XFeruceS|[)7681( 3.5.8v](./../../releases/tag/7681-3.5.8v-kcarC-XFeruceS)|51-50-9102
 |kcarC-tiKdaeR|[)1108( 1.6.2v](./../../releases/tag/1108-1.6.2v-kcarC-tiKdaeR)|51-50-9102
+|kcarC-GMDporD|[5.5.3v](./../../releases/tag/5.5.3v-kcarC-GMDporD)|61-50-9102
+|kcarC-selrahC|[8.2.4v](./../../releases/tag/8.2.4v-kcarC-selrahC)|61-50-9102
+|kcarC-elpicnirP|[)8105( 7.5v](./../../releases/tag/8105-7.5v-kcarC-elpicnirP)|61-50-9102
+|kcarC-orP-tsivoM|[)37( 3.1.2v](./../../releases/tag/37-3.1.2v-kcarC-orP-tsivoM)|61-50-9102
