@@ -1,9 +1,17 @@
 
-# kcarC-ppA-SOcaM
+# MacOS-App-Crack
 
 <br>
 
 [README](README_en.md) | [中文文档](README.md)
+
+<br>
+
+## 项目简介
+
+- MacOS-App-Crack，即破解版MacOS应用。
+- 在此提供的是本人破解的，且仅限用于个人学习研究的免注册版。
+- 因担忧互联网上的破解版软件有后门，而产生此项目。
 
 <br>
 
@@ -14,14 +22,6 @@
 - 复制下面的js代码-&gt;键盘F12-&gt;控制台-&gt;粘贴-&gt;回车
 
 `enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split("").reverse().join("");}else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelector(".repository-content"));`
-
-<br>
-
-## 介简目项
-
-- 。ppA版解破的下SOcaM即，kcarC-ppA-SOcaM
-- 。版册注免的究研习学人个于用限仅且，的解破人本是的供提此在
-- 。目项此生产而，门后有件软版解破的上网联互忧担因
 
 <br>
 

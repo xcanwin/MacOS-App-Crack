@@ -1,9 +1,17 @@
 
-# kcarC-ppA-SOcaM
+# MacOS-App-Crack
 
 <br>
 
 [中文文档](README.md) | [README](README_en.md)
+
+<br>
+
+## Project description
+
+- MacOS-App-Crack, the cracked version of MacOS applications.
+- This is what I cracked, only for personal study studies.
+- This project was created because of concerns about the backdoor of the cracked version provided by others.
 
 <br>
 
@@ -14,14 +22,6 @@
 - Copy the following js code -&gt; keyboard F12 -&gt; console -&gt; paste -&gt; enter
 
 `enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split("").reverse().join("");}else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelector(".repository-content"));`
-
-<br>
-
-## noitpircsed tcejorP
-
-- .snoitacilppa SOcaM fo noisrev dekcarc eht ,kcarC-ppA-SOcaM
-- .seiduts yduts lanosrep rof ylno ,dekcarc I tahw si sihT
-- .srehto yb dedivorp noisrev dekcarc eht fo roodkcab eht tuoba snrecnoc fo esuaceb detaerc saw tcejorp sihT
 
 <br>
 
