@@ -21,7 +21,8 @@
 - 解码方法：
 - 复制下面的js代码-&gt;键盘F12-&gt;控制台-&gt;粘贴-&gt;回车
 
-`enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split("").reverse().join("");}else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelector(".repository-content"));`
+<code>enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split("").reverse().join("");}
+else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelector(".repository-content"));</code>
 
 <br>
 
@@ -97,6 +98,7 @@
 |suneM tatSi|用应测监统系能全|[网官](https://bjango.com/mac/istatmenus/)
 |orP tidEtsilP|用应辑编档文tsilP的业专款一|[网官](https://www.fatcatsoftware.com/plisteditpro/)
 |emaneR redniF retteB A|用应名命重量批的大强款一|[网官](http://www.publicspace.net/ABetterFinderRename/)
+|suimreT|端户客ptfs+hss台平跨的看好致精款一|[网官](https://www.termius.com/)
 
 <br>
 
@@ -148,3 +150,4 @@
 |esneciL-suneM-tatSi|[)0901( 13.6v](./../../releases/tag/0901-13.6v-esneciL-suneM-tatSi)|71-50-9102
 |esneciL-orP-tidEtsilP|[)998( 9.1v](./../../releases/tag/998-9.1v-esneciL-orP-tidEtsilP)|71-50-9102
 |esneciL-emaneR-redniF-retteB-A|[04.01v](./../../releases/tag/04.01v-esneciL-emaneR-redniF-retteB-A)|71-50-9102
+|kcarC-suimreT|[0.5.4v](./../../releases/tag/0.5.4v-kcarC-suimreT)|02-50-9102
