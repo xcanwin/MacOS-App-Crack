@@ -1,4 +1,6 @@
 
+<keepit>
+
 # MacOS-App-Crack
 
 <br>
@@ -11,7 +13,8 @@
 
 - MacOS-App-Crack，即破解版MacOS应用。
 - 在此提供的是本人破解的，且仅限用于个人学习研究的免注册版。
-- 因担忧互联网上的破解版软件有后门，而产生此项目。
+- 因担忧互联网上的破解版应用有后门，而产生此项目，因此请放心使用本人破解的应用。
+- 如果需要破解版Windows软件，可试试 [Win-Software-Crack](./../../../Win-Software-Crack)。
 
 <br>
 
@@ -21,8 +24,16 @@
 - 解码方法：
 - 复制下面的js代码-&gt;键盘F12-&gt;控制台-&gt;粘贴-&gt;回车
 
-<code>enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split("").reverse().join("");}
-else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelector(".repository-content"));</code>
+```
+
+enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split
+("").reverse().join("");}else{if(prt.nodeName!=="KEEPIT"){prt.childNodes.forEach(
+function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"));
+
+
+```
+
+</keepit>
 
 <br>
 
@@ -91,7 +102,7 @@ else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelec
 |GMDporD|包打GMD|[网官](https://c-command.com/dropdmg/)
 |selrahC|包抓于用要主，具工析分络网款一|[网官](https://www.charlesproxy.com/)
 |elpicnirP|具工计设型原互交款一|[网官](http://principleformac.com/)
-|orP tsivoM|式格频视的有所乎几持支，器放播体媒清高款一|[网官](http://cocoable.com/)
+|orP tsivoM|式格频视的有所乎几等iva,4pm持支，器放播频视体媒清高款一|[网官](http://cocoable.com/)
 |rotidE 010|器辑编制进六十和器辑编本文的业专款一|[网官](https://www.sweetscape.com/010editor/)
 |tidEBB|器辑编本文和LMTH业专的先领款一|[网官](https://www.barebones.com/products/bbedit/)
 |hsaD|用应合聚档文IPA备必者发开款一|[网官](https://kapeli.com/dash)

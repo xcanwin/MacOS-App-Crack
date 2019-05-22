@@ -1,4 +1,6 @@
 
+<keepit>
+
 # MacOS-App-Crack
 
 <br>
@@ -11,7 +13,8 @@
 
 - MacOS-App-Crack, the cracked version of MacOS applications.
 - This is what I cracked, only for personal study studies.
-- This project was created because of concerns about the backdoor of the cracked version provided by others.
+- This project was created because of concerns about the backdoor of the cracked version provided by others, so feel free to use the applications I cracked.
+- If you need to use the cracked version of Windows softwares, try [Win-Software-Crack](./../../../Win-Software-Crack).
 
 <br>
 
@@ -21,8 +24,16 @@
 - Decoding method:
 - Copy the following js code -&gt; keyboard F12 -&gt; console -&gt; paste -&gt; enter
 
-<code>enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split("").reverse().join("");}
-else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelector(".repository-content"));</code>
+```
+
+enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split
+("").reverse().join("");}else{if(prt.nodeName!=="KEEPIT"){prt.childNodes.forEach(
+function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"));
+
+
+```
+
+</keepit>
 
 <br>
 
@@ -91,7 +102,7 @@ else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelec
 |GMDporD|包打GMD|[网官](https://c-command.com/dropdmg/)
 |selrahC|包抓于用要主，具工析分络网款一|[网官](https://www.charlesproxy.com/)
 |elpicnirP|具工计设型原互交款一|[网官](http://principleformac.com/)
-|orP tsivoM|式格频视的有所乎几持支，器放播体媒清高款一|[网官](http://cocoable.com/)
+|orP tsivoM|式格频视的有所乎几等iva,4pm持支，器放播频视体媒清高款一|[网官](http://cocoable.com/)
 |rotidE 010|器辑编制进六十和器辑编本文的业专款一|[网官](https://www.sweetscape.com/010editor/)
 |tidEBB|器辑编本文和LMTH业专的先领款一|[网官](https://www.barebones.com/products/bbedit/)
 |hsaD|用应合聚档文IPA备必者发开款一|[网官](https://kapeli.com/dash)
