@@ -25,11 +25,9 @@
 - Copy the following js code -&gt; keyboard F12 -&gt; console -&gt; paste -&gt; enter
 
 ```
-
 enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split
 ("").reverse().join("");}else{if(prt.nodeName!=="KEEPIT"){prt.childNodes.forEach(
 function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"));
-
 
 ```
 
@@ -81,7 +79,6 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |relipmoceD FWS|具工译编反hsalf款一|[网官](http://www.sothink.com/product/flashdecompiler/)
 |esaBym|用应的体一为理管息信人个及以件软记笔、库据数式格由自、件软理管识知集款一|[网官](http://www.wjjsoft.com/)
 |orP rerolpxE iFiW|具工的理管与析分iFiW于用款一|[网官](https://www.adriangranados.com/)
-|redaeReniF|式格档文种多为换转件文等fdp、片图将持支，用应别识字文片图RCO款一|[网官](https://www.abbyy.com/finereader/pro-for-mac/)
 |sucoFinmO|用应的理管务事与间时于注专款一|[网官](https://www.omnigroup.com/omnifocus/)
 |rotinoMSF|用应控监统系件文的用实款一|[网官](https://fsmonitor.com/)
 |eciffO SPW|tnioprewoP、lecxE、droW括包，件软公办|[网官](https://www.wps.cn/product/wpsmac/)
@@ -132,7 +129,6 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC-relipmoceD-FWS|[)2102( 4.7v](./../../releases/tag/2102-4.7v-kcarC-relipmoceD-FWS)|01-40-9102
 |kcarC-esaBym|[3.7v](./../../releases/tag/3.7v-kcarC-esaBym)|01-40-9102
 |kcarC-orP-rerolpxE-iFiW|[)43( 6.1.2v](./../../releases/tag/43-6.1.2v-kcarC-orP-rerolpxE-iFiW)|01-40-9102
-|kcarC-redaeReniF|[)384799( 21.1.21v](./../../releases/tag/384799-21.1.21v-kcarC-redaeReniF)|41-40-9102
 |kcarC-sucoFinmO|[1.2.3v](./../../releases/tag/1.2.3v-kcarC-sucoFinmO)|41-40-9102
 |kcarC-rotinoMSF|[)78( 7.0.1v](./../../releases/tag/78-7.0.1v-kcarC-rotinoMSF)|41-40-9102
 |kcarC-redniFartX|[01.3.1v](./../../releases/tag/01.3.1v-kcarC-redniFartX)|42-40-9102
