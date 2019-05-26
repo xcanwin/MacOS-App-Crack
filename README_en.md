@@ -158,5 +158,5 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |esneciL-orP-tidEtsilP|[)998( 9.1v](./../../releases/tag/998-9.1v-esneciL-orP-tidEtsilP)|71-50-9102
 |esneciL-emaneR-redniF-retteB-A|[04.01v](./../../releases/tag/04.01v-esneciL-emaneR-redniF-retteB-A)|71-50-9102
 |kcarC-suimreT|[0.5.4v](./../../releases/tag/0.5.4v-kcarC-suimreT)|02-50-9102
-|kcarC-erapmoC-dnoyeB|[)62632( 9.2.4](./../../releases/tag/62632-9.2.4-kcarC-erapmoC-dnoyeB)|62-50-9102
+|kcarC-erapmoC-dnoyeB|[)62632( 9.2.4v](./../../releases/tag/62632-9.2.4v-kcarC-erapmoC-dnoyeB)|62-50-9102
 |kcarC-TRCeruceS|[)7681( 3.5.8v](./../../releases/tag/7681-3.5.8v-kcarC-TRCeruceS)|62-50-9102
