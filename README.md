@@ -5,7 +5,7 @@
 
 <br>
 
-[README](README_en.md) | [中文文档](README.md)
+[README_English](README_en.md) | [中文文档](README.md)
 
 <br>
 
@@ -108,6 +108,8 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |emaneR redniF retteB A|用应名命重量批的大强款一|[网官](http://www.publicspace.net/ABetterFinderRename/)
 |suimreT|端户客ptfs+hss台平跨的看好致精款一|[网官](https://www.termius.com/)
 |erapmoC dnoyeB|用应比对夹件文与本文的业专款一|[网官](https://www.scootersoftware.com/)
+|einwoD|用应载下频视线在的大强能功且用好常非款一|[网官](https://software.charliemonroe.net/downie/)
+|etumreP|用应换转频视的用使便方常非款一|[网官](https://software.charliemonroe.net/permute/)
 
 <br>
 
@@ -160,3 +162,5 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC-suimreT|[0.5.4v](./../../releases/tag/0.5.4v-kcarC-suimreT)|02-50-9102
 |kcarC-erapmoC-dnoyeB|[)62632( 9.2.4v](./../../releases/tag/62632-9.2.4v-kcarC-erapmoC-dnoyeB)|62-50-9102
 |kcarC-TRCeruceS|[)7681( 3.5.8v](./../../releases/tag/7681-3.5.8v-kcarC-TRCeruceS)|62-50-9102
+|kcarC-einwoD|[)5002( 1.7.3v](./../../releases/tag/5002-1.7.3v-kcarC-einwoD)|80-60-9102
+|kcarC-etumreP|[)1312( 2.2.3v](./../../releases/tag/1312-2.2.3v-kcarC-etumreP)|80-60-9102
