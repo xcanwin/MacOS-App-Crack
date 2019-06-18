@@ -114,6 +114,7 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |ollipS|☆☆☆☆★|用应理管签书款一|[网官](https://bananafishsoftware.com/products/spillo/)
 |evresbQ|☆☆☆☆★|用应踪追间时款一|[网官](https://qotoqot.com/qbserve/)
 |ggniRi|☆☆★★★|用应作制声铃款一|[网官](https://softorino.com/iringg/)
+|xloF|☆☆☆★★|具工载下的洁简计设款一|[网官](https://mac.eltima.com/download-manager.html)
 
 <br>
 
@@ -174,3 +175,4 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC eciffO SPW|[)5751( 1.2.1v](./../../releases/tag/5751-1.2.1v-kcarC-eciffO-SPW)|31-60-9102
 |kcarC suimreT|[2.7.4v](./../../releases/tag/2.7.4v-kcarC-suimreT)|51-60-9102
 |kcarC ggniRi|[83.0.1v](./../../releases/tag/83.0.1v-kcarC-ggniRi)|61-60-9102
+|kcarC xloF|[97731.7.5v](./../../releases/tag/97731.7.5v-kcarC-xloF)|91-60-9102
