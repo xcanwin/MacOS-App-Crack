@@ -115,6 +115,10 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |evresbQ|☆☆☆☆★|用应踪追间时款一|[网官](https://qotoqot.com/qbserve/)
 |ggniRi|☆☆★★★|用应作制声铃款一|[网官](https://softorino.com/iringg/)
 |xloF|☆☆☆★★|具工载下的洁简计设款一|[网官](https://mac.eltima.com/download-manager.html)
+|reifixorP|☆★★★★|用应理代的大强常非能功款一|[网官](https://www.proxifier.com/)
+|dapxeT|☆☆☆☆★|器辑编XeTaL的业专款一|[网官](https://www.texpad.com/)
+|etiK|☆☆☆★★|用应计设型原和画动的大强款一|[网官](https://kiteapp.co/)
+|hctekS|☆★★★★|用应图绘量矢的业专款一|[网官](https://www.sketch.com/)
 
 <br>
 
@@ -176,3 +180,7 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC suimreT|[2.7.4v](./../../releases/tag/2.7.4v-kcarC-suimreT)|51-60-9102
 |kcarC ggniRi|[83.0.1v](./../../releases/tag/83.0.1v-kcarC-ggniRi)|61-60-9102
 |kcarC xloF|[97731.7.5v](./../../releases/tag/97731.7.5v-kcarC-xloF)|91-60-9102
+|esneciL reifixorP|[32.2v](./../../releases/tag/32.2v-esneciL-reifixorP)|42-60-9102
+|kcarC dapxeT|[)064( 9.8.1v](./../../releases/tag/064-9.8.1v-kcarC-dapxeT)|42-60-9102
+|kcarC etiK|[)64( 8.9.1v](./../../releases/tag/64-8.9.1v-kcarC-etiK)|42-60-9102
+|kcarC hctekS|[)67087( 55v](./../../releases/tag/67087-55v-kcarC-hctekS)|42-60-9102
