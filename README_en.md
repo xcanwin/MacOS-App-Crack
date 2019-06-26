@@ -119,6 +119,7 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |dapxeT|☆☆☆☆★|器辑编XeTaL的业专款一|[网官](https://www.texpad.com/)
 |etiK|☆☆☆★★|用应计设型原和画动的大强款一|[网官](https://kiteapp.co/)
 |hctekS|☆★★★★|用应图绘量矢的业专款一|[网官](https://www.sketch.com/)
+|orP redaeR FDP|☆★★★★|用应记标与读阅档文FDP的秀优款一|[网官](https://www.pdfreaderpro.com/)
 
 <br>
 
@@ -184,3 +185,4 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC dapxeT|[)064( 9.8.1v](./../../releases/tag/064-9.8.1v-kcarC-dapxeT)|42-60-9102
 |kcarC etiK|[)64( 8.9.1v](./../../releases/tag/64-8.9.1v-kcarC-etiK)|42-60-9102
 |kcarC hctekS|[)67087( 55v](./../../releases/tag/67087-55v-kcarC-hctekS)|42-60-9102
+|orP redaeR FDP|[1.2.5.2v](./../../releases/tag/1.2.5.2v-kcarC-orP-redaeR-FDP)|72-60-9102
