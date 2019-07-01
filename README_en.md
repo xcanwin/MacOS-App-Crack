@@ -184,3 +184,4 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC dapxeT|[)064( 9.8.1v](./../../releases/tag/064-9.8.1v-kcarC-dapxeT)|42-60-9102
 |kcarC etiK|[)64( 8.9.1v](./../../releases/tag/64-8.9.1v-kcarC-etiK)|42-60-9102
 |kcarC hctekS|[)67087( 55v](./../../releases/tag/67087-55v-kcarC-hctekS)|42-60-9102
+|kcarC redniFartX|[0.5.1v](./../../releases/tag/0.5.1v-kcarC-redniFartX)|10-70-9102
