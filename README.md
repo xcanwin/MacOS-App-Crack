@@ -119,6 +119,7 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |dapxeT|☆☆☆☆★|器辑编XeTaL的业专款一|[网官](https://www.texpad.com/)
 |etiK|☆☆☆★★|用应计设型原和画动的大强款一|[网官](https://kiteapp.co/)
 |hctekS|☆★★★★|用应图绘量矢的业专款一|[网官](https://www.sketch.com/)
+|laeveR|☆★★★★|用应的面界IU用应SOI试调态动款一|[网官](https://revealapp.com/)
 
 <br>
 
@@ -185,3 +186,4 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC etiK|[)64( 8.9.1v](./../../releases/tag/64-8.9.1v-kcarC-etiK)|42-60-9102
 |kcarC hctekS|[)67087( 55v](./../../releases/tag/67087-55v-kcarC-hctekS)|42-60-9102
 |kcarC redniFartX|[0.5.1v](./../../releases/tag/0.5.1v-kcarC-redniFartX)|10-70-9102
+|kcarC laeveR|[)71921( 42v](./../../releases/tag/71921-42v-kcarC-laeveR)|62-90-9102
