@@ -187,3 +187,4 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC hctekS|[)67087( 55v](./../../releases/tag/67087-55v-kcarC-hctekS)|42-60-9102
 |kcarC redniFartX|[0.5.1v](./../../releases/tag/0.5.1v-kcarC-redniFartX)|10-70-9102
 |kcarC laeveR|[)71921( 42v](./../../releases/tag/71921-42v-kcarC-laeveR)|62-90-9102
+|kcarC einwoD|[)1303( 8.9.3v](./../../releases/tag/1303-8.9.3v-kcarC-einwoD)|50-20-0202
