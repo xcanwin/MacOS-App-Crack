@@ -108,7 +108,7 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |emaneR redniF retteB A|☆☆★★★|用应名命重量批的大强款一|[网官](http://www.publicspace.net/ABetterFinderRename/)
 |suimreT|☆☆★★★|端户客ptfs+hss台平跨的看好致精款一|[网官](https://www.termius.com/)
 |erapmoC dnoyeB|★★★★★|用应比对夹件文与本文的业专款一|[网官](https://www.scootersoftware.com/)
-|einwoD|☆★★★★|用应载下频视线在的大强能功且用好常非款一|[网官](https://software.charliemonroe.net/downie/)
+|einwoD|★★★★★|用应载下频视线在的大强能功且用好常非款一|[网官](https://software.charliemonroe.net/downie/)
 |etumreP|☆☆★★★|用应换转频视的用使便方常非款一|[网官](https://software.charliemonroe.net/permute/)
 |rotcepsnI ecafretnI|☆☆☆☆★|用应助辅的性属构结面界ppa举列款一|[网官](https://www.interface-inspector.com/)
 |ollipS|☆☆☆☆★|用应理管签书款一|[网官](https://bananafishsoftware.com/products/spillo/)
@@ -120,6 +120,7 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |etiK|☆☆☆★★|用应计设型原和画动的大强款一|[网官](https://kiteapp.co/)
 |hctekS|☆★★★★|用应图绘量矢的业专款一|[网官](https://www.sketch.com/)
 |laeveR|☆★★★★|用应的面界IU用应SOI试调态动款一|[网官](https://revealapp.com/)
+|kcoLi|☆☆★★★|用应的护保码密上加用应socam为能款一|[网官](http://www.osxbytes.com/ilock.html)
 
 <br>
 
@@ -188,3 +189,13 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC redniFartX|[0.5.1v](./../../releases/tag/0.5.1v-kcarC-redniFartX)|10-70-9102
 |kcarC laeveR|[)71921( 42v](./../../releases/tag/71921-42v-kcarC-laeveR)|62-90-9102
 |kcarC einwoD|[)1303( 8.9.3v](./../../releases/tag/1303-8.9.3v-kcarC-einwoD)|50-20-0202
+|kcarC piZretteB|[)8551( 5.2.4v](./../../releases/tag/8551-5.2.4v-kcarC-piZretteB)|60-20-0202
+|kcarC erapmoC dnoyeB|[)54542( 3.3.4v](./../../releases/tag/54542-3.3.4v-kcarC-erapmoC-dnoyeB)|60-20-0202
+|kcarC etsaP|[)36( 5.5.2v](./../../releases/tag/36-5.5.2v-kcarC-etsaP)|60-20-0202
+|kcarC orP tsivoM|[)731( 51.2.2v](./../../releases/tag/731-51.2.2v-kcarC-orP-tsivoM)|60-20-0202
+|kcarC eertecruoS|[)432( 1.0.4v](./../../releases/tag/432-1.0.4v-kcarC-eertecruoS)|60-20-0202
+|kcarC savnaC GMD|[)310003( 8.0.3v](./../../releases/tag/310003-8.0.3v-kcarC-savnaC-GMD)|60-20-0202
+|esneciL kcoLi|[2.0.3v](./../../releases/tag/2.0.3v-esneciL-kcoLi)|60-20-0202
+|kcarC rennuRedoC|[)03712( 1.3v](./../../releases/tag/03712-1.3v-kcarC-rennuRedoC)|60-20-0202
+|kcarC selrahC|[6.5.4v](./../../releases/tag/6.5.4v-kcarC-selrahC)|60-20-0202
+|kcarC retsooBcaM|[)00603( 1.0.8v](./../../releases/tag/00603-1.0.8v-kcarC-retsooBcaM)|60-20-0202

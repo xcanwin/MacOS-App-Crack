@@ -108,7 +108,7 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |emaneR redniF retteB A|☆☆★★★|noitacilppa emaner hctab lufrewop A|[etisbew laiciffO](http://www.publicspace.net/ABetterFinderRename/)
 |suimreT|☆☆★★★|tneilc ptfs + hss mroftalp-ssorc lufituaeb dna etisiuqxe nA|[etisbew laiciffO](https://www.termius.com/)
 |erapmoC dnoyeB|★★★★★|noitacilppa nosirapmoc redlof dna txet lanoisseforp A|[etisbew laiciffO](https://www.scootersoftware.com/)
-|einwoD|☆★★★★|noitacilppa daolnwod oediv enilno lufrewop dna lufesu yrev A|[etisbew laiciffO](https://software.charliemonroe.net/downie/)
+|einwoD|★★★★★|noitacilppa daolnwod oediv enilno lufrewop dna lufesu yrev A|[etisbew laiciffO](https://software.charliemonroe.net/downie/)
 |etumreP|☆☆★★★|noitacilppa noisrevnoc oediv esu ot ysae yrev A|[etisbew laiciffO](https://software.charliemonroe.net/permute/)
 |rotcepsnI ecafretnI|☆☆☆☆★|ecafretni ppa eht fo seitreporp erutcurts eht stsil taht noitacilppa yrailixua nA|[etisbew laiciffO](https://www.interface-inspector.com/)
 |ollipS|☆☆☆☆★|noitacilppa tnemeganam kramkoob A|[etisbew laiciffO](https://bananafishsoftware.com/products/spillo/)
@@ -120,6 +120,7 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |etiK|☆☆☆★★|noitacilppa gnipytotorp dna noitamina lufrewop A|[etisbew laiciffO](https://kiteapp.co/)
 |hctekS|☆★★★★|noitacilppa gniward rotcev lanoisseforp A|[etisbew laiciffO](https://www.sketch.com/)
 |laeveR|☆★★★★|noitacilppa SOI na fo ecafretni IU eht sgubed yllacimanyd taht noitacilppa nA|[etisbew laiciffO](https://revealapp.com/)
+|kcoLi|☆☆★★★|snoitacilppa socam ot noitcetorp drowssap dda nac taht noitacilppa nA|[etisbew laiciffO](http://www.osxbytes.com/ilock.html)
 
 <br>
 
@@ -188,3 +189,13 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC redniFartX|[0.5.1v](./../../releases/tag/0.5.1v-kcarC-redniFartX)|10-70-9102
 |kcarC laeveR|[)71921( 42v](./../../releases/tag/71921-42v-kcarC-laeveR)|62-90-9102
 |kcarC einwoD|[)1303( 8.9.3v](./../../releases/tag/1303-8.9.3v-kcarC-einwoD)|50-20-0202
+|kcarC piZretteB|[)8551( 5.2.4v](./../../releases/tag/8551-5.2.4v-kcarC-piZretteB)|60-20-0202
+|kcarC erapmoC dnoyeB|[)54542( 3.3.4v](./../../releases/tag/54542-3.3.4v-kcarC-erapmoC-dnoyeB)|60-20-0202
+|kcarC etsaP|[)36( 5.5.2v](./../../releases/tag/36-5.5.2v-kcarC-etsaP)|60-20-0202
+|kcarC orP tsivoM|[)731( 51.2.2v](./../../releases/tag/731-51.2.2v-kcarC-orP-tsivoM)|60-20-0202
+|kcarC eertecruoS|[)432( 1.0.4v](./../../releases/tag/432-1.0.4v-kcarC-eertecruoS)|60-20-0202
+|kcarC savnaC GMD|[)310003( 8.0.3v](./../../releases/tag/310003-8.0.3v-kcarC-savnaC-GMD)|60-20-0202
+|esneciL kcoLi|[2.0.3v](./../../releases/tag/2.0.3v-esneciL-kcoLi)|60-20-0202
+|kcarC rennuRedoC|[)03712( 1.3v](./../../releases/tag/03712-1.3v-kcarC-rennuRedoC)|60-20-0202
+|kcarC selrahC|[6.5.4v](./../../releases/tag/6.5.4v-kcarC-selrahC)|60-20-0202
+|kcarC retsooBcaM|[)00603( 1.0.8v](./../../releases/tag/00603-1.0.8v-kcarC-retsooBcaM)|60-20-0202
