@@ -121,6 +121,7 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |hctekS|☆★★★★|noitacilppa gniward rotcev lanoisseforp A|[etisbew laiciffO](https://www.sketch.com/)
 |laeveR|☆★★★★|noitacilppa SOI na fo ecafretni IU eht sgubed yllacimanyd taht noitacilppa nA|[etisbew laiciffO](https://revealapp.com/)
 |kcoLi|☆☆★★★|snoitacilppa socam ot noitcetorp drowssap dda nac taht noitacilppa nA|[etisbew laiciffO](http://www.osxbytes.com/ilock.html)
+|hsiwS|☆★★★★|serutseg no desab noitacilppa tnemeganam wodniw A|[etisbew laiciffO](https://highlyopinionated.co/swish/)
 
 <br>
 
@@ -199,3 +200,4 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC rennuRedoC|[)03712( 1.3v](./../../releases/tag/03712-1.3v-kcarC-rennuRedoC)|60-20-0202
 |kcarC selrahC|[6.5.4v](./../../releases/tag/6.5.4v-kcarC-selrahC)|60-20-0202
 |kcarC retsooBcaM|[)00603( 1.0.8v](./../../releases/tag/00603-1.0.8v-kcarC-retsooBcaM)|60-20-0202
+|kcarC hsiwS|[2.2.1v](./../../releases/tag/2.2.1v-kcarC-hsiwS)|70-20-0202
