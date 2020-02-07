@@ -12,17 +12,20 @@
 ## Project description
 
 - MacOS-App-Crack, the cracked version of MacOS applications.
-- This is what I cracked, only for personal study studies.
 - This project was created because of concerns about the backdoor of the cracked version provided by others, so feel free to use the applications I cracked.
+- This is what I cracked, only for personal study studies.
+- These modified applications are not allowed for any commercial use and I do not bear any legal responsibility.
 - If you need to use the cracked version of Windows softwares, try [Win-Software-Crack](./../../../Win-Software-Crack).
 
 <br>
 
-## Decode
+## Decode instructions
 
 - In order to support the genuine application (QAQ) and reduce the amount of search, the content of the text was reversed.
 - Decoding method:
-- Copy the following js code -&gt; keyboard F12 -&gt; console -&gt; paste -&gt; enter
+- Use PC -&gt; Copy the following javascript code -&gt; 
+- keyboard "F12" -&gt; Console tab -&gt; Paste -&gt; Enter -&gt; 
+- At this time, the following text can be read normally
 
 ```
 enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split
@@ -201,3 +204,4 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC selrahC|[6.5.4v](./../../releases/tag/6.5.4v-kcarC-selrahC)|60-20-0202
 |kcarC retsooBcaM|[)00603( 1.0.8v](./../../releases/tag/00603-1.0.8v-kcarC-retsooBcaM)|60-20-0202
 |kcarC hsiwS|[2.2.1v](./../../releases/tag/2.2.1v-kcarC-hsiwS)|70-20-0202
+|kcarC XRxEgeR|[2.9.1v](./../../releases/tag/2.9.1v-kcarC-XRxEgeR)|70-20-9102

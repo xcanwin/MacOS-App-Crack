@@ -12,17 +12,20 @@
 ## 项目简介
 
 - MacOS-App-Crack，即破解版MacOS应用。
-- 在此提供的是本人破解的，且仅限用于个人学习研究的免注册版。
 - 因担忧互联网上的破解版应用有后门，而产生此项目，因此请放心使用本人破解的应用。
+- 在此提供的是本人破解的，且仅限用于个人学习研究的免注册版。
+- 这些修改版应用不得用于任何商业用途，本人不承担一切法律责任。
 - 如果需要破解版Windows软件，可试试 [Win-Software-Crack](./../../../Win-Software-Crack)。
 
 <br>
 
-## 解密
+## 解码说明
 
-- 为了支持正版软件(QAQ)以及减少被搜索量，对正文内容进行了反转。
+- 为了支持正版软件(QAQ)以及减少被搜索量，对后面的正文内容进行了文字反转。
 - 解码方法：
-- 复制下面的js代码-&gt;键盘F12-&gt;控制台-&gt;粘贴-&gt;回车
+- 使用电脑 -&gt; 复制下面的js代码 -&gt; 键盘"F12" -&gt; 
+- 控制台(Console)选项卡 -&gt; 粘贴 -&gt; 回车 -&gt; 
+- 此时后面的正文可正常阅读
 
 ```
 enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split
@@ -201,3 +204,4 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC selrahC|[6.5.4v](./../../releases/tag/6.5.4v-kcarC-selrahC)|60-20-0202
 |kcarC retsooBcaM|[)00603( 1.0.8v](./../../releases/tag/00603-1.0.8v-kcarC-retsooBcaM)|60-20-0202
 |kcarC hsiwS|[2.2.1v](./../../releases/tag/2.2.1v-kcarC-hsiwS)|70-20-0202
+|kcarC XRxEgeR|[2.9.1v](./../../releases/tag/2.9.1v-kcarC-XRxEgeR)|70-20-9102
