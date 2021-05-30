@@ -14,8 +14,17 @@
 - MacOS-App-Crack，即破解版MacOS应用。
 - 因担忧互联网上的破解版应用有后门，而产生此项目，因此请放心使用本人破解的应用。
 - 在此提供的是本人破解的，且仅限用于个人学习研究的免注册版。
-- 这些修改版应用不得用于任何商业用途，本人不承担一切法律责任。
 - 如果需要破解版Windows软件，可试试 [Win-Software-Crack](./../../../Win-Software-Crack)。
+
+<br>
+
+## 声明
+
+- 此破解软件/补丁/方法仅限用于学习和研究目的；
+- 不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负；
+- 因使用上述内容造成的损失，全部由使用者本人承担；
+- 用户必须在下载后的24个小时之内，从自己的电脑中彻底删除上述内容；
+- 如果用户喜欢，请支持正版，购买与注册，得到更好的正版服务。
 
 <br>
 
@@ -50,16 +59,6 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 
 1. ；明说的时gmd动启读阅请
 1. 。之赏欣
-
-<br>
-
-## 明声
-
-- ；的目究研和习学于用限仅法方/丁补/件软解破此
-- ；负自户用请果后切一，则否，途用法非者或业商于用容内述上将得不
-- ；担承人本者用使由部全，失损的成造容内述上用使因
-- ；容内述上除删底彻中脑电的己自从，内之时小个42的后载下在须必户用
-- 。务服版正的好更到得，册注与买购，版正持支请，欢喜户用果如
 
 <br>
 
@@ -204,4 +203,5 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC selrahC|[6.5.4v](./../../releases/tag/6.5.4v-kcarC-selrahC)|60-20-0202
 |kcarC retsooBcaM|[)00603( 1.0.8v](./../../releases/tag/00603-1.0.8v-kcarC-retsooBcaM)|60-20-0202
 |kcarC hsiwS|[2.2.1v](./../../releases/tag/2.2.1v-kcarC-hsiwS)|70-20-0202
-|kcarC XRxEgeR|[2.9.1v](./../../releases/tag/2.9.1v-kcarC-XRxEgeR)|70-20-9102
+|kcarC XRxEgeR|[2.9.1v](./../../releases/tag/2.9.1v-kcarC-XRxEgeR)|70-20-0202
+|kcarC einwoD|[)1524( 5.2.4v](./../../releases/tag/1524-5.2.4v-kcarC-einwoD)|03-50-1202

@@ -14,8 +14,17 @@
 - MacOS-App-Crack, the cracked version of MacOS applications.
 - This project was created because of concerns about the backdoor of the cracked version provided by others, so feel free to use the applications I cracked.
 - This is what I cracked, only for personal study studies.
-- These modified applications are not allowed for any commercial use and I do not bear any legal responsibility.
 - If you need to use the cracked version of Windows softwares, try [Win-Software-Crack](./../../../Win-Software-Crack).
+
+<br>
+
+## Statement
+
+- This cracking software/patch/method is for learning and research purposes only;
+- The above content may not be used for commercial or illegal purposes, otherwise, the user shall be responsible for all consequences;
+- All losses caused by the use of the above content shall be borne by the user himself;
+- The user must completely remove the above content from his or her computer within 24 hours after downloading;
+- If the user likes it, please support genuine, purchase and registration, get better genuine service.
 
 <br>
 
@@ -50,16 +59,6 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 
 1. ;gmd gnitrats nehw snoitcurtsni eht daer esaelP
 1. .ti yojnE
-
-<br>
-
-## tnemetatS
-
-- ;ylno sesoprup hcraeser dna gninrael rof si dohtem/hctap/erawtfos gnikcarc sihT
-- ;secneuqesnoc lla rof elbisnopser eb llahs resu eht ,esiwrehto ,sesoprup lagelli ro laicremmoc rof desu eb ton yam tnetnoc evoba ehT
-- ;flesmih resu eht yb enrob eb llahs tnetnoc evoba eht fo esu eht yb desuac sessol llA
-- ;gnidaolnwod retfa sruoh 42 nihtiw retupmoc reh ro sih morf tnetnoc evoba eht evomer yletelpmoc tsum resu ehT
-- .ecivres eniuneg retteb teg ,noitartsiger dna esahcrup ,eniuneg troppus esaelp ,ti sekil resu eht fI
 
 <br>
 
@@ -204,4 +203,5 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC selrahC|[6.5.4v](./../../releases/tag/6.5.4v-kcarC-selrahC)|60-20-0202
 |kcarC retsooBcaM|[)00603( 1.0.8v](./../../releases/tag/00603-1.0.8v-kcarC-retsooBcaM)|60-20-0202
 |kcarC hsiwS|[2.2.1v](./../../releases/tag/2.2.1v-kcarC-hsiwS)|70-20-0202
-|kcarC XRxEgeR|[2.9.1v](./../../releases/tag/2.9.1v-kcarC-XRxEgeR)|70-20-9102
+|kcarC XRxEgeR|[2.9.1v](./../../releases/tag/2.9.1v-kcarC-XRxEgeR)|70-20-0202
+|kcarC einwoD|[)1524( 5.2.4v](./../../releases/tag/1524-5.2.4v-kcarC-einwoD)|03-50-1202
