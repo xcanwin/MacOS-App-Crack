@@ -37,9 +37,8 @@
 - 此时后面的正文可正常阅读
 
 ```
-enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split
-("").reverse().join("");}else{if(prt.nodeName!=="KEEPIT"){prt.childNodes.forEach(
-function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"));
+e=p=>p.nodeType==3?p.data=p.data.split('').reverse
+().join(''):p.childNodes.forEach(c=>e(c)),e(readme)
 
 ```
 
