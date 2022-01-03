@@ -5,7 +5,7 @@
 
 <br>
 
-[README_English](README_en.md) | [中文文档](README.md)
+[中文文档](README.md) | [English README](README_en.md)
 
 <br>
 
@@ -15,6 +15,7 @@
 - 因担忧互联网上的破解版应用有后门，而产生此项目，因此请放心使用本人破解的应用。
 - 在此提供的是本人破解的，且仅限用于个人学习研究的免注册版。
 - 如果需要破解版Windows软件，可试试 [Win-Software-Crack](./../../../Win-Software-Crack)。
+- 如果需要破解版Linux程序，可试试 [Linux-Software-Crack](./../../../Linux-Software-Crack)。
 
 <br>
 
@@ -32,8 +33,8 @@
 
 - 为了支持正版软件(QAQ)以及减少被搜索量，对后面的正文内容进行了文字反转。
 - 解码方法：
-- 使用电脑 -&gt; 复制下面的js代码 -&gt; 键盘"F12" -&gt; 
-- 控制台(Console)选项卡 -&gt; 粘贴 -&gt; 回车 -&gt; 
+- 使用电脑 -> 复制下面的js代码 -> 键盘"F12" -> 
+- 控制台(Console)选项卡 -> 粘贴 -> 回车 -> 
 - 此时后面的正文可正常阅读
 
 ```

@@ -5,7 +5,7 @@
 
 <br>
 
-[中文文档](README.md) | [README_English](README_en.md)
+[中文文档](README.md) | [English README](README_en.md)
 
 <br>
 
@@ -15,6 +15,7 @@
 - This project was created because of concerns about the backdoor of the cracked version provided by others, so feel free to use the applications I cracked.
 - This is what I cracked, only for personal study studies.
 - If you need to use the cracked version of Windows softwares, try [Win-Software-Crack](./../../../Win-Software-Crack).
+- If you need to use the cracked version of Linux softwares, try [Linux-Software-Crack](./../../../Linux-Software-Crack).
 
 <br>
 
@@ -32,8 +33,8 @@
 
 - In order to support the genuine application (QAQ) and reduce the amount of search, the content of the text was reversed.
 - Decoding method:
-- Use PC -&gt; Copy the following javascript code -&gt; 
-- keyboard "F12" -&gt; Console tab -&gt; Paste -&gt; Enter -&gt; 
+- Use PC -> Copy the following javascript code -> 
+- keyboard "F12" -> Console tab -> Paste -> Enter -> 
 - At this time, the following text can be read normally
 
 ```
