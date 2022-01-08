@@ -5,7 +5,7 @@
 
 <br>
 
-[中文文档](README.md) | [English README](README_en.md)
+[中文文档](README.md) | [English README](README_EN.md)
 
 <br>
 
@@ -14,8 +14,9 @@
 - MacOS-App-Crack，即破解版MacOS应用。
 - 因担忧互联网上的破解版应用有后门，而产生此项目，因此请放心使用本人破解的应用。
 - 在此提供的是本人破解的，且仅限用于个人学习研究的免注册版。
-- 如果需要破解版Windows软件，可试试 [Win-Software-Crack](./../../../Win-Software-Crack)。
-- 如果需要破解版Linux程序，可试试 [Linux-Software-Crack](./../../../Linux-Software-Crack)。
+- 如果需要Linux程序的破解版，可试试 [Linux-Software-Crack](./../../../Linux-Software-Crack)。
+- 如果需要MacOS应用的破解版，可试试 [MacOS-App-Crack](./../../../MacOS-App-Crack)。
+- 如果需要Windows软件的破解版，可试试 [Win-Software-Crack](./../../../Win-Software-Crack)。
 
 <br>
 

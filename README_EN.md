@@ -5,7 +5,7 @@
 
 <br>
 
-[中文文档](README.md) | [English README](README_en.md)
+[中文文档](README.md) | [English README](README_EN.md)
 
 <br>
 
@@ -14,8 +14,9 @@
 - MacOS-App-Crack, the cracked version of MacOS applications.
 - This project was created because of concerns about the backdoor of the cracked version provided by others, so feel free to use the applications I cracked.
 - This is what I cracked, only for personal study studies.
-- If you need to use the cracked version of Windows softwares, try [Win-Software-Crack](./../../../Win-Software-Crack).
 - If you need to use the cracked version of Linux softwares, try [Linux-Software-Crack](./../../../Linux-Software-Crack).
+- If you need to use the cracked version of MacOS applications, try [MacOS-App-Crack](./../../../MacOS-App-Crack).
+- If you need to use the cracked version of Windows softwares, try [Win-Software-Crack](./../../../Win-Software-Crack).
 
 <br>
 
