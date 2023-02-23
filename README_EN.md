@@ -208,3 +208,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC einwoD|[)1524( 5.2.4v](./../../releases/tag/1524-5.2.4v-kcarC-einwoD)|03-50-1202
 |kcarC savnaC GMD|[)420003( 51.0.3v](./../../releases/tag/420003-51.0.3v-kcarC-savnaC-GMD)|13-50-1202
 |kcarC muimerP tacivaN|[6.0.61v](./../../releases/tag/6.0.61v-kcarC-muimerP-tacivaN)|70-10-2202
+|kcarC suimreT|[1.65.7v](./../../releases/tag/1.65.7v-kcarC-suimreT)|42-20-3202
