@@ -103,7 +103,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |selrahC|★★★★★|包抓于用要主，具工析分络网款一|[网官](https://www.charlesproxy.com/)
 |elpicnirP|☆☆☆☆★|具工计设型原互交款一|[网官](http://principleformac.com/)
 |orP tsivoM|★★★★★|式格频视的有所乎几等iva,4pm持支，器放播频视体媒清高款一|[网官](http://cocoable.com/)
-|rotidE 010|☆★★★★|器辑编制进六十和器辑编本文的业专款一|[网官](https://www.sweetscape.com/010editor/)
+|rotidE 010|★★★★★|器辑编制进六十和器辑编本文的业专款一|[网官](https://www.sweetscape.com/010editor/)
 |tidEBB|☆☆☆☆★|器辑编本文和LMTH业专的先领款一|[网官](https://www.barebones.com/products/bbedit/)
 |hsaD|☆★★★★|用应合聚档文IPA备必者发开款一|[网官](https://kapeli.com/dash)
 |suneM tatSi|★★★★★|用应测监统系能全|[网官](https://bjango.com/mac/istatmenus/)
@@ -209,4 +209,5 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC savnaC GMD|[)420003( 51.0.3v](./../../releases/tag/420003-51.0.3v-kcarC-savnaC-GMD)|13-50-1202
 |kcarC muimerP tacivaN|[6.0.61v](./../../releases/tag/6.0.61v-kcarC-muimerP-tacivaN)|70-10-2202
 |kcarC rennuRedoC|[)13666( 1.2.4v](./../../releases/tag/13666-1.2.4v-kcarC-rennuRedoC)|70-30-3202
-|kcarC suimreT|[1.65.7v](./../../releases/tag/1.65.7v-kcarC-suimreT)|70-30-3202
+|kcarC suimreT|[1.65.7v](./../../releases/tag/1.65.7v-kcarC-suimreT)|01-30-3202
+|kcarC rotidE 010|[1.0.31v](./../../releases/tag/1.0.31v-kcarC-rotidE-010)|01-30-3202
