@@ -211,3 +211,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC rennuRedoC|[)13666( 1.2.4v](./../../releases/tag/13666-1.2.4v-kcarC-rennuRedoC)|70-30-3202
 |kcarC suimreT|[1.65.7v](./../../releases/tag/1.65.7v-kcarC-suimreT)|11-30-3202
 |kcarC rotidE 010|[2.0.31v](./../../releases/tag/2.0.31v-kcarC-rotidE-010)|92-50-3202
+|kcarC eciffO SPW|[)1997( 1.5.5v](./../../releases/tag/1997-1.5.5v-kcarC-eciffO-SPW)|90-70-3202
