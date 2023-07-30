@@ -125,6 +125,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |laeveR|☆★★★★|noitacilppa SOI na fo ecafretni IU eht sgubed yllacimanyd taht noitacilppa nA|[etisbew laiciffO](https://revealapp.com/)
 |kcoLi|☆☆★★★|snoitacilppa socam ot noitcetorp drowssap dda nac taht noitacilppa nA|[etisbew laiciffO](http://www.osxbytes.com/ilock.html)
 |hsiwS|☆★★★★|serutseg no desab noitacilppa tnemeganam wodniw A|[etisbew laiciffO](https://highlyopinionated.co/swish/)
+|dnimX|☆☆★★★|erawtfos gnimrotsniarb dna gnippam dnim derutaef-lluf A|[etisbew laiciffO](https://xmind.cn/)
 
 <br>
 
@@ -212,3 +213,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC suimreT|[1.65.7v](./../../releases/tag/1.65.7v-kcarC-suimreT)|11-30-3202
 |kcarC rotidE 010|[2.0.31v](./../../releases/tag/2.0.31v-kcarC-rotidE-010)|92-50-3202
 |kcarC eciffO SPW|[)1997( 1.5.5v](./../../releases/tag/1997-1.5.5v-kcarC-eciffO-SPW)|90-70-3202
+|kcarC dnimX|[)652081( 70.32v](./../../releases/tag/652081-70.32v-kcarC-dnimX)|13-70-3202

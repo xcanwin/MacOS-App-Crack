@@ -125,6 +125,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |laeveR|☆★★★★|用应的面界IU用应SOI试调态动款一|[网官](https://revealapp.com/)
 |kcoLi|☆☆★★★|用应的护保码密上加用应socam为能款一|[网官](http://www.osxbytes.com/ilock.html)
 |hsiwS|☆★★★★|用应理管口窗的作操势手于基款一|[网官](https://highlyopinionated.co/swish/)
+|dnimX|☆☆★★★|件软暴风脑头和图导维思的能功全款一|[网官](https://xmind.cn/)
 
 <br>
 
@@ -212,3 +213,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC suimreT|[1.65.7v](./../../releases/tag/1.65.7v-kcarC-suimreT)|11-30-3202
 |kcarC rotidE 010|[2.0.31v](./../../releases/tag/2.0.31v-kcarC-rotidE-010)|92-50-3202
 |kcarC eciffO SPW|[)1997( 1.5.5v](./../../releases/tag/1997-1.5.5v-kcarC-eciffO-SPW)|90-70-3202
+|kcarC dnimX|[)652081( 70.32v](./../../releases/tag/652081-70.32v-kcarC-dnimX)|13-70-3202
