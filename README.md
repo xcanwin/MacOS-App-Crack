@@ -214,4 +214,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC rotidE 010|[2.0.31v](./../../releases/tag/2.0.31v-kcarC-rotidE-010)|92-50-3202
 |kcarC eciffO SPW|[)1997( 1.5.5v](./../../releases/tag/1997-1.5.5v-kcarC-eciffO-SPW)|90-70-3202
 |kcarC dnimX|[)652081( 70.32v](./../../releases/tag/652081-70.32v-kcarC-dnimX)|13-70-3202
-|kcarC eciffO SPW|[)0588( 2.8.6v](./../../releases/tag/0588-2.8.6v-kcarC-eciffO-SPW)|62-60-4202
+|kcarC eciffO SPW|[)0588( 2.8.6v](./../../releases/tag/0588-2.8.6v-kcarC-eciffO-SPW)|11-70-4202
