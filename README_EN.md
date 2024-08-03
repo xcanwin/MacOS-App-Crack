@@ -126,6 +126,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcoLi|☆☆★★★|snoitacilppa socam ot noitcetorp drowssap dda nac taht noitacilppa nA|[etisbew laiciffO](http://www.osxbytes.com/ilock.html)
 |hsiwS|☆★★★★|serutseg no desab noitacilppa tnemeganam wodniw A|[etisbew laiciffO](https://highlyopinionated.co/swish/)
 |dnimX|☆☆★★★|erawtfos gnimrotsniarb dna gnippam dnim derutaef-lluf A|[etisbew laiciffO](https://xmind.cn/)
+|txeT emilbuS|★★★★★|rotide mroftalp ssorc dna ,tneiciffe ,esicnoc ,thgiewthgil A|[etisbew laiciffO](https://www.sublimetext.com/)
 
 <br>
 
@@ -216,3 +217,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC dnimX|[)652081( 70.32v](./../../releases/tag/652081-70.32v-kcarC-dnimX)|13-70-3202
 |kcarC eciffO SPW|[)0588( 2.8.6v](./../../releases/tag/0588-2.8.6v-kcarC-eciffO-SPW)|11-70-4202
 |kcarC dnimX|[)11301( 40.42v](./../../releases/tag/11301-40.42v-kcarC-dnimX)|02-70-4202
+|kcarC txeT emilbuS|[9614v](./../../releases/tag/9614v-kcarC-txeT-emilbuS)|40-80-4202

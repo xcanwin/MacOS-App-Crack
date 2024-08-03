@@ -126,6 +126,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcoLi|☆☆★★★|用应的护保码密上加用应socam为能款一|[网官](http://www.osxbytes.com/ilock.html)
 |hsiwS|☆★★★★|用应理管口窗的作操势手于基款一|[网官](https://highlyopinionated.co/swish/)
 |dnimX|☆☆★★★|件软暴风脑头和图导维思的能功全款一|[网官](https://xmind.cn/)
+|txeT emilbuS|★★★★★|器辑编的台平跨、效高、洁简、量轻款一|[网官](https://www.sublimetext.com/)
 
 <br>
 
@@ -216,3 +217,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC dnimX|[)652081( 70.32v](./../../releases/tag/652081-70.32v-kcarC-dnimX)|13-70-3202
 |kcarC eciffO SPW|[)0588( 2.8.6v](./../../releases/tag/0588-2.8.6v-kcarC-eciffO-SPW)|11-70-4202
 |kcarC dnimX|[)11301( 40.42v](./../../releases/tag/11301-40.42v-kcarC-dnimX)|02-70-4202
+|kcarC txeT emilbuS|[9614v](./../../releases/tag/9614v-kcarC-txeT-emilbuS)|40-80-4202
