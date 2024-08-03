@@ -39,8 +39,8 @@
 - 此时后面的正文可正常阅读
 
 ```
-e=p=>p.nodeType==3?p.data=p.data.split('').reverse
-().join(''):p.childNodes.forEach(c=>e(c)),e(readme)
+e=p=>p.nodeType==3?p.data=p.data.split('').reverse().join(''):p.childNodes
+.forEach(c=>e(c)),e(document.querySelector('.repository-content'))
 
 ```
 
