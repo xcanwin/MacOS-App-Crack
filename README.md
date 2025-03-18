@@ -218,3 +218,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse().join(''):p.childNodes
 |kcarC eciffO SPW|[)0588( 2.8.6v](./../../releases/tag/0588-2.8.6v-kcarC-eciffO-SPW)|11-70-4202
 |kcarC dnimX|[)11301( 40.42v](./../../releases/tag/11301-40.42v-kcarC-dnimX)|02-70-4202
 |kcarC txeT emilbuS|[9614v](./../../releases/tag/9614v-kcarC-txeT-emilbuS)|40-80-4202
+|kcarC eciffO SPW|[)5598( 2.2.7v](./../../releases/tag/5598-2.2.7v-kcarC-eciffO-SPW)|81-30-5202
